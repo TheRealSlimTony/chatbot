@@ -1,1 +1,2 @@
 streamlit run main.py --server.enableXsrfProtection=false
+python 3.9.4
